@@ -7,7 +7,7 @@
 | Création du dépôt Git et du README | TD1 (6/10) | Terminé | |
 | Planning prévisionnel | TD1 (6/10) | Terminé | |
 | Choix du contenu du site (compétences, projets...) | TD1 – TD2 | En cours | |
-| Maquette du site | TD1 – TD2 (23/10) | À faire | |
+| Maquette du site | TD1 – TD2 (23/10) | Terminé | Réalisée sur draw.io, en avance sur le planning |
 | Architecture générale du site | TD2 (23/10) | À faire | |
 | Partie serveur (BDD + contrôleur) | TD3 (23/11) | À faire | |
 | Partie visualisation | TD4 (24/11) | À faire | |
@@ -25,9 +25,11 @@ Début du projet -> Maquette terminée -> Architecture définie -> Première ver
 - Création du dépôt Git
 - Rédaction du README initial
 - Réalisation du planning prévisionnel
-
+- Réalisation de la maquette des 5 pages sur draw.io
+- Dépôt de la maquette (PDF + fichier .drawio) sur GitHub
 ## Difficultés rencontrées
 - Aucune pour l'instant
 
 ## À faire
-- Réaliser la maquette du site
+- Définir le contenu précis du site (compétences, projets, parcours)
+- Préparer l'architecture générale du site (TD2)
